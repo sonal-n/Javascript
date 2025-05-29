@@ -1,0 +1,15 @@
+@font-face {
+    src: url(fonts/Roboto-VariableFont_wdth,wght.ttf);
+    font-family: roboto;
+}
+
+h1 {
+    font-family: "roboto", verdana, arial;
+}
+
+p {
+    font-family: "roboto", "lucida console", courier;
+    font-size: 1.4em;
+    font-weight: bold;
+    font-style: normal;
+}
